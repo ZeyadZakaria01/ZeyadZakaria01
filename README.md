@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeyad Zakaria</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-![gif](https://github.com/ZeyadZakaria01/ZeyadZakaria01/assets/71618822/f7528ef2-b218-4d3d-826e-1d268f3b953a)
 
 - 🌱 I’m currently learning **ML, Deep Learning, NLP and Embedded Systems**
 
